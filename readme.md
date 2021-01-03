@@ -1,5 +1,5 @@
 # Imgproxify
-This repository is only for discussion about imgproxify feature.
+This repository is only for discussion about feature in imgproxify.
 
 ### How to submit idea?
 - Just create something on the [issues](https://github.com/aalfiann/imgproxify/issues) section.
